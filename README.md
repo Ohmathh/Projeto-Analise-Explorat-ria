@@ -5,10 +5,10 @@ Alunos: Felipe Kooji Vidal Tsuchiya, Matheus De Souza Zampieri e Gustavo da Silv
 
 Turma: BSI - Quarta a noite
 
-Casos De COVID-19 em Curitiba
+Base de receitas e despesas da Prefeirtura
 
-link Base de Dados: https://mid.curitiba.pr.gov.br/dadosabertos/CasosCovid19/2022-09-14_Casos_Covid_19_-_Base_de_Dados.csv
-link Dicionario De Dados: https://mid.curitiba.pr.gov.br/dadosabertos/CasosCovid19/2022-02-01_Dicionario_de_Dados%20-%20Casos%20de%20COVID.csv
+link Base de Dados: https://mid.curitiba.pr.gov.br/dadosabertos/BaseReceitaDespesa/2022-10-01_Receitas_-_Base_de_Dados.csv
+link Dicionario De Dados: https://mid.curitiba.pr.gov.br/dadosabertos/BaseReceitaDespesa/2016-04-07_Receitas_-_Dicionario_de_Dados.xlsx
 
 link Repositorio: https://github.com/Ohmathh/Projeto-Analise-Explorat-ria.git
 
