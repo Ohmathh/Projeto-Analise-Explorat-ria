@@ -11,3 +11,6 @@ link Base de Dados: https://mid.curitiba.pr.gov.br/dadosabertos/CasosCovid19/202
 link Dicionario De Dados: https://mid.curitiba.pr.gov.br/dadosabertos/CasosCovid19/2022-02-01_Dicionario_de_Dados%20-%20Casos%20de%20COVID.csv
 
 link Repositorio: https://github.com/Ohmathh/Projeto-Analise-Explorat-ria.git
+
+
+/*link pagina: https://www.curitiba.pr.gov.br/dadosabertos/busca/?pagina=2*/
