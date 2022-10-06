@@ -13,4 +13,4 @@ link Dicionario De Dados: https://mid.curitiba.pr.gov.br/dadosabertos/CasosCovid
 link Repositorio: https://github.com/Ohmathh/Projeto-Analise-Explorat-ria.git
 
 
-/*link pagina: https://www.curitiba.pr.gov.br/dadosabertos/busca/?pagina=2*/
+/* link pagina: https://www.curitiba.pr.gov.br/dadosabertos/busca/?pagina=2 */
